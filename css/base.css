@@ -71,7 +71,8 @@ footer address strong {
 
 footer a {
   font-weight: 300;
-  color: #5A5A5A;
+  color: #000;
+  /*#5A5A5A;*/
 }
 
 footer a:hover {
