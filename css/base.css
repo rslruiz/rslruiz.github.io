@@ -85,7 +85,8 @@ section#copyright {
 }
 
 section {
-  margin-bottom: 2em;
+  margin-top: 2em;
+  /*  margin-bottom: 2em;*/
 }
 
 [data-bs-theme="blue"] {
